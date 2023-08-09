@@ -1,0 +1,12 @@
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\bin\Debug\Extra10-3AddSecondForm.exe.config
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\bin\Debug\Extra10-3AddSecondForm.exe
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\bin\Debug\Extra10-3AddSecondForm.pdb
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.csproj.AssemblyReference.cache
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10_3AddSecondForm.frmAddSecondForm.resources
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10_3AddSecondForm.frmChangeTax.resources
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10_3AddSecondForm.Properties.Resources.resources
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.csproj.GenerateResource.cache
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.exe
+C:\Users\rebek\Desktop\AWDSummer2023RebekahHenderson\Homework\CompletedHomework\Ch9-11\Ch9-11Homework\Extra10-3AddSecondForm\obj\Debug\Extra10-3AddSecondForm.pdb
